@@ -16,10 +16,12 @@
 <h2>Conteúdo Didático e Livro-Texto</h2>
 
 <p>
-O curso foi baseado no livro <a href="https://www.statlearning.com">Introduction to Statistical Learning</a> dos autores <a href="https://goizueta.emory.edu/faculty/profiles/gareth-james"> Gareth James</a>, <a href="https://www.biostat.washington.edu/people/daniela-witten">Daniela Witten </a>, <a href="https://statistics.stanford.edu/people/trevor-j-hastie"> Trevor Hastie</a>, e <a href="https://statistics.stanford.edu/people/robert-tibshirani">Robert Tibshirani</a>, um renomado livro introdutório na área. Constanto também como literatura suporte os livros <a href="https://hastie.su.domains/ElemStatLearn/">Elements of Statistical Learning</a> de <a href="https://statistics.stanford.edu/people/trevor-j-hastie"> Trevor Hastie</a>, <a href="https://statistics.stanford.edu/people/robert-tibshirani">Robert Tibshirani</a> e <a href="https://statistics.stanford.edu/people/jerome-h-friedman"> Jerry Friedman</a> Todas as imagens e datasets são do livro, exceto quando assinalado. Os datasets, junto com instruções de uso, estão disponíveis no arquivo labs.zip. Se você encontrar algum erro no material, por favor avise à equipe para que possamos corrigi-lo.
+O curso foi baseado no livro <a href="https://www.statlearning.com">Introduction to Statistical Learning</a> dos autores <a href="https://goizueta.emory.edu/faculty/profiles/gareth-james"> Gareth James</a>, <a href="https://www.biostat.washington.edu/people/daniela-witten">Daniela Witten </a>, <a href="https://statistics.stanford.edu/people/trevor-j-hastie"> Trevor Hastie</a>, e <a href="https://statistics.stanford.edu/people/robert-tibshirani">Robert Tibshirani</a>, um renomado livro introdutório na área. Constanto também como literatura suporte os livros <a href="https://hastie.su.domains/ElemStatLearn/">Elements of Statistical Learning</a> de <a href="https://statistics.stanford.edu/people/trevor-j-hastie"> Trevor Hastie</a>, <a href="https://statistics.stanford.edu/people/robert-tibshirani">Robert Tibshirani</a> e <a href="https://statistics.stanford.edu/people/jerome-h-friedman"> Jerry Friedman</a> e <a href="https://probml.github.io/pml-book/book1.html">Probabilistic Machine Learning: An Introduction</a> de <a href="https://www.cs.ubc.ca/~murphy">Kevin Murphy</a>.
 </p>
 
 <a href=""> </a>
+
+Todas as imagens e datasets são do livro, exceto quando assinalado. Os datasets, junto com instruções de uso, estão disponíveis no arquivo labs.zip. Se você encontrar algum erro no material, por favor avise à equipe para que possamos corrigi-lo.
 
 </body>
 </html>
