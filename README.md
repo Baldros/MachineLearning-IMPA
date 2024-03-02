@@ -4,6 +4,6 @@ O Instituto de Matemática Pura e Aplicada (IMPA) é uma unidade de ensino e pes
 
 Fundado em 1952, o IMPA tem como missão desenvolver pesquisa avançada em matemática pura e aplicada, desenvolvendo pesquisas principalmente nas áreas de sistemas dinâmicos, probabilidade, computação gráfica, dinâmica dos fluidos, entre outras, e contando com um extenso corpo científico e seus laboratórios Visgraf, Fluid e Centro de Projetos e Inovação IMPA (Centro PI), voltado para o setor produtivo.
 
-Na formação acadêmica, o IMPA oferece cursos de pós-graduação em mestrado, doutorado e mestrado profissionalizante, além de programas de formação continuada para professores de matemática.
+## Curso de Machine Learning:
 
-A divulgação da matemática é feita através da OBMEP – Olimpíada Brasileira das Escolas Públicas e de eventos de popularização, como Festival Nacional da Matemática.
+O objetivo desse repositorio é justamente conter o curso de Machine Learning ministrado no periodo de Cusos de Verão do instituto (2024 - https://impa.br/ensino/programacao-de-disciplinas/) .
