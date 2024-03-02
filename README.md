@@ -1,6 +1,6 @@
 # Instituto de Matemática Pura e Aplicada:
 
-O Instituto de Matemática Pura e Aplicada (IMPA) é uma unidade de ensino e pesquisa qualificada como Organização Social vinculada ao Ministério da Ciência, Tecnologia e Inovação (MCTI) e ao Ministério da Educação (MEC).
+O Instituto de Matemática Pura e Aplicada (IMPA) é uma unidade de ensino e pesquisa qualificada como Organização Social vinculada ao Ministério da Ciência, Tecnologia e Inovação (MCTI) e ao Ministério da Educação (MEC). É considerado um dos principais, se não o principal, institutos, de Matemática da america latina, sendo referência internacional da área de pesquisa sobre sistemas dinâmicos.
 
 Fundado em 1952, o IMPA tem como missão desenvolver pesquisa avançada em matemática pura e aplicada, dar continuidade à formação acadêmica com cursos de pós-graduação e promover a disseminação da matemática.
 
