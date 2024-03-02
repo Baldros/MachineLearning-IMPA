@@ -1,12 +1,5 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-<head>
-    
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Instituto de Matemática Pura e Aplicada - Curso de Machine Learning</title>
-
-</head>
 <body>
 
 <h1>Instituto de Matemática Pura e Aplicada (IMPA)</h1>
