@@ -11,7 +11,7 @@
 
 <h2>Curso de Machine Learning</h2>
 
-<p>O objetivo desse repositório é conter o curso de <a href="https://w3.impa.br/~pauloo/teaching/ml/"> Machine Learning</a> cursado no período de Cursos de Verão do ano de 2024 (<a href="https://impa.br/ensino/programacao-de-disciplinas/">Programação de Disciplinas</a>), por membros do Centro de Projetos e Inovação IMPA (Centro PI).</p>
+<p>O objetivo desse repositório é conter o curso de <a href="https://w3.impa.br/~pauloo/teaching/ml/"> Machine Learning</a> cursado no período de <a href="https://impa.br/ensino/programacao-de-disciplinas/">Cursos de Verão do ano de 2024</a>, que o instituto fornece em todo periodo de recesso, cuja fora ministrado pelo professor <a href="https://w3.impa.br/~pauloo/"> Paulo Orenstein</a> com o auxilio de outros membros do Centro de Projetos e Inovação IMPA (Centro PI)</p>
 
 </body>
 </html>
